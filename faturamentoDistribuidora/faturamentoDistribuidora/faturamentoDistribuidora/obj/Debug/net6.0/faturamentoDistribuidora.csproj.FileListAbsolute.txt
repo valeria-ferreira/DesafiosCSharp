@@ -1,0 +1,15 @@
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\bin\Debug\net6.0\faturamentoDistribuidora.exe
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\bin\Debug\net6.0\faturamentoDistribuidora.deps.json
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\bin\Debug\net6.0\faturamentoDistribuidora.runtimeconfig.json
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\bin\Debug\net6.0\faturamentoDistribuidora.dll
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\bin\Debug\net6.0\faturamentoDistribuidora.pdb
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\obj\Debug\net6.0\faturamentoDistribuidora.csproj.AssemblyReference.cache
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\obj\Debug\net6.0\faturamentoDistribuidora.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\obj\Debug\net6.0\faturamentoDistribuidora.AssemblyInfoInputs.cache
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\obj\Debug\net6.0\faturamentoDistribuidora.AssemblyInfo.cs
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\obj\Debug\net6.0\faturamentoDistribuidora.csproj.CoreCompileInputs.cache
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\obj\Debug\net6.0\faturamentoDistribuidora.dll
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\obj\Debug\net6.0\refint\faturamentoDistribuidora.dll
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\obj\Debug\net6.0\faturamentoDistribuidora.pdb
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\obj\Debug\net6.0\faturamentoDistribuidora.genruntimeconfig.cache
+C:\workspace\Target-Sistemas\faturamentoDistribuidora\faturamentoDistribuidora\faturamentoDistribuidora\obj\Debug\net6.0\ref\faturamentoDistribuidora.dll

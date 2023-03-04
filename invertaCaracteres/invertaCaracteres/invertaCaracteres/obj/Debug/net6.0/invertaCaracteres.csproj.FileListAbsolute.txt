@@ -1,0 +1,15 @@
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\bin\Debug\net6.0\invertaCaracteres.exe
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\bin\Debug\net6.0\invertaCaracteres.deps.json
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\bin\Debug\net6.0\invertaCaracteres.runtimeconfig.json
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\bin\Debug\net6.0\invertaCaracteres.dll
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\bin\Debug\net6.0\invertaCaracteres.pdb
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\obj\Debug\net6.0\invertaCaracteres.csproj.AssemblyReference.cache
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\obj\Debug\net6.0\invertaCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\obj\Debug\net6.0\invertaCaracteres.AssemblyInfoInputs.cache
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\obj\Debug\net6.0\invertaCaracteres.AssemblyInfo.cs
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\obj\Debug\net6.0\invertaCaracteres.csproj.CoreCompileInputs.cache
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\obj\Debug\net6.0\invertaCaracteres.dll
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\obj\Debug\net6.0\refint\invertaCaracteres.dll
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\obj\Debug\net6.0\invertaCaracteres.pdb
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\obj\Debug\net6.0\invertaCaracteres.genruntimeconfig.cache
+C:\workspace\Target-Sistemas\invertaCaracteres\invertaCaracteres\invertaCaracteres\obj\Debug\net6.0\ref\invertaCaracteres.dll
